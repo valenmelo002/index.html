@@ -1,12 +1,12 @@
 body{
-    background-color: aqua;
+    background-color: yellow;
     margin: auto;
     font-size: larger;
     gap: 20px;
     font-style: italic;
     padding: 22px;
     border: 24px;
-    text-align: center;
+    text-align: end;
     background-position: 25px;
-    display: flex;
+    display: contents;
 }
