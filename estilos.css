@@ -6,7 +6,7 @@ body{
     font-style: italic;
     padding: 22px;
     border: 24px;
-    text-align: center;
+    text-align: justify;
     background-position: 25px;
     display: flex;
 }
