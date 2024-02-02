@@ -1,12 +1,12 @@
 body{
-    background-color: black;
+    background-color: violet;
     margin: auto;
     font-size: larger;
     gap: 40px;
-    font-style: italic;
+    font-style: arial;
     padding: 22px;
     border: 24px;
     text-align: justify;
-    background-position: 25px;
+    background-position: 26px;
     display: flex;
 }
